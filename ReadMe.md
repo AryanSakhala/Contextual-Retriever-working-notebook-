@@ -1,4 +1,4 @@
-**Contextual Retrieval using VLLM Notebook**
+**Contextual Retrieval using VLLM Notebook using llamaIndex**
 
 This notebook provides a comprehensive guide for implementing **Contextual Retrieval** using **VLLM**. To get started, follow these essential steps:
 
