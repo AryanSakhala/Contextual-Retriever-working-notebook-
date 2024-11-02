@@ -15,5 +15,3 @@ This notebook provides a comprehensive guide for implementing **Contextual Retri
 **Best of Luck with Your Project!**
 
 
-
-g&#8203;o&#8203;o&#8203;d&#8203; &#8203;m&#8203;o&#8203;r&#8203;n&#8203;i&#8203;n&#8203;g
